@@ -23,14 +23,12 @@ layout: null
         {% endif %}
         <description>
           {% if post.subtitle %}{{ post.subtitle | strip_html | xml_escape }} - {% endif %}
+          {% if post.youtubeurl %}{{ post.youtubeurl }}{% endif %}
           {{ post.content | strip_html | xml_escape | truncatewords: excerpt_length }}
         </description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ post.youtubeurl | post.url | absolute_url }}</link>
-        {% if post.thumbnail-img %}
-          <image:image xmlns:image="{{ post.thumbnail-img }}" />
-        {% endif %}
-        <guid isPermaLink="true">{{ post.youtubeurl | post.url | absolute_url }}</guid>
+        <link>{{ post.url | absolute_url }}</link>
+        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
       </item>
     {% endfor %}
   </channel>
