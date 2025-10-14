@@ -3,6 +3,7 @@ layout: post
 title: KI mindert kritisches Denken bald?
 subtitle: KI & Kritisches Denken - Gefahr für Unternehmen?
 thumbnail-img: https://i.ytimg.com/vi/oWQuPdhy7IY/hqdefault.jpg
+youtubeurl: https://www.youtube.com/watch?v=oWQuPdhy7IY
 tags: [AI, KI, Jobs]
 comments: true
 mathjax: true
