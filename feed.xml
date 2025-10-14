@@ -27,6 +27,9 @@ layout: null
         </description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <link>{{ post.youtubeurl | post.url | absolute_url }}</link>
+        {% if post.thumbnail-img %}
+          <image:image xmlns:image="{{ post.thumbnail-img }}" />
+        {% endif %}
         <guid isPermaLink="true">{{ post.youtubeurl | post.url | absolute_url }}</guid>
       </item>
     {% endfor %}
