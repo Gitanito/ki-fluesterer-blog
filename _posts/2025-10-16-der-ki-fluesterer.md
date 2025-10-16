@@ -2,7 +2,7 @@
 layout: post
 title: KI-Investitionen - Droht Blasenkatastrophe?
 subtitle: KI-Blase? KI-Firmen investieren sich gegenseitig! Risiko!
-thumbnail-img: https://i9.ytimg.com/vi/Ozant3II6LE/hqdefault.jpg?sqp=CJDFvccG&rs=AOn4CLCaL9efu7WDfZJ0BOB_sI0B0Z_NGg
+thumbnail-img: https://i.ytimg.com/vi/Ozant3II6LE/hqdefault.jpg
 youtubeurl: https://www.youtube.com/watch?v=Ozant3II6LE
 tags: [AI, KI, Jobs]
 comments: true
