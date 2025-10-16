@@ -2,7 +2,7 @@
 layout: post
 title: China missbraucht ChatGPT autoritär?
 subtitle: OpenAI vs. China - KI-Missbrauch oder Doppelmoral?
-thumbnail-img: https://i9.ytimg.com/vi/MjwWdV8ldAI/hqdefault.jpg?sqp=CLjAvccG&rs=AOn4CLB-vduEMDxVv6M-YY3zleuSZYDPVA
+thumbnail-img: https://i.ytimg.com/vi/MjwWdV8ldAI/hqdefault.jpg
 youtubeurl: https://www.youtube.com/watch?v=MjwWdV8ldAI
 tags: [AI, KI, Jobs]
 comments: true
