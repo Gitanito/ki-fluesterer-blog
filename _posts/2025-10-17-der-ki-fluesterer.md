@@ -2,7 +2,7 @@
 layout: post
 title: Regulierung - Chance oder Falle?
 subtitle: KI Regulierung - Warum Europa zurückfällt und Innovation stirbt
-thumbnail-img: https://i9.ytimg.com/vi/E70ShHMwCso/hqdefault.jpg?sqp=COjJvccG&rs=AOn4CLDXctEODHhpYNgQ_MVsDIdHSjuB0w
+thumbnail-img: https://i.ytimg.com/vi/E70ShHMwCso/hqdefault.jpg
 youtubeurl: https://www.youtube.com/watch?v=E70ShHMwCso
 tags: [AI, KI, Jobs]
 comments: true
