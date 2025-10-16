@@ -2,7 +2,7 @@
 layout: post
 title: KI Modelle vergiften? Wie leicht?
 subtitle: KI-Modelle vergiften - Nur 250 Daten reichen! (Data Poisoning)
-thumbnail-img: https://i9.ytimg.com/vi/dkWWtToZkCc/hqdefault.jpg?sqp=CIiCvscG&rs=AOn4CLA98RPnC4AOwV5M0cTqXkI1RVFr5A
+thumbnail-img: https://i.ytimg.com/vi/dkWWtToZkCc/hqdefault.jpg
 youtubeurl: https://www.youtube.com/watch?v=dkWWtToZkCc
 tags: [AI, KI, Jobs]
 comments: true
