@@ -2,7 +2,7 @@
 layout: post
 title: Führungskräfte - KI-Zukunft jetzt nutzen?
 subtitle: Führungskräfte & KI - Diese 8 Tools musst du jetzt nutzen!
-thumbnail-img: https://i9.ytimg.com/vi/3HkdwdLZjb4/hqdefault.jpg?sqp=CKDhvccG&rs=AOn4CLBFe04pCB9WiPPfu62L47nXsFMvHQ
+thumbnail-img: https://i.ytimg.com/vi/3HkdwdLZjb4/hqdefault.jpg
 youtubeurl: https://www.youtube.com/watch?v=3HkdwdLZjb4
 tags: [AI, KI, Jobs]
 comments: true
